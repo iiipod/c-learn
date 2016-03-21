@@ -9,7 +9,7 @@ int main()
     {
         for(j = 0; j < 2; j++)
         {
-            printf("qing shuru[%d][%d]de shujui: ",i, j);
+            printf("qing shuru[%d][%d]de shujui: ", i, j);
             scanf("%lf", &num[i][j]);
         }
     }
