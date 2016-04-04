@@ -12,7 +12,7 @@ int main()
     return 0;
 }
 
-void printstar(n)
+void printstar(int n)
 {
     int i;
     for(i = 1; i <= n; i++)
