@@ -22,7 +22,7 @@ int main()
     printf("\nshuzu yuansu de zhi: \n");
     for(i = 0; i < 5; i++)
     {
-        printf("a[%df]=%.1f\n", i, a[i]);
+        printf("a[%d]=%.1f\n", i, a[i]);
     }
 
     system("pause");
