@@ -1,11 +1,11 @@
 #include<stdio.h>
 #include<stdlib.h>
-double tot(double [], int n);
+double tot(double [], int);
 
 int main()
 {
     double num[6];
-    double total = 0.0;
+    double total;
     int i;
 
     for(i = 0; i < 6; i++)
@@ -30,10 +30,10 @@ int main()
 
 double tot(double num[], int n)
 {
-    double total;
+    double total = 0;
     int i;
 
-    for(i = 0; i <6; i++)
+    for(i = 0; i < n; i++)
     {
         total += num[i];
     }
