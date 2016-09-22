@@ -8,6 +8,7 @@ int main()
     char **p2 = &p1;
     char ***p3 = &p2;
 
+    /* yixia de &x shi shuchu neirong */
     printf("&x = %p\n", &diamond);
     printf("&p1 = %p, p1 = %p\n", &p1, p1);
     printf("&p2 = %p, p2 = %p\n", &p2, p2);

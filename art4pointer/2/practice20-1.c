@@ -3,10 +3,17 @@
 
 int main()
 {
+    int i = 200;
     int *p;
-    *p = 120;
 
-    printf("The address of p is %p", &p);
+    /*
+        p = &i;
+        *p = i;
+    */
+    *p = i;
+
+
+    printf("The address of p is %p\n", &p);
     printf("*p=%d\n", *p);
 
     return 0;
