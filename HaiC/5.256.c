@@ -21,7 +21,7 @@ void display(fruit_order order)
 {
     printf("This order contains ");
     if(order.units == PINTS)
-        printf("%2.2f prints of %s\n", order.amount.volume, order.name);
+        printf("%2.2f pints of %s\n", order.amount.volume, order.name);
     else if(order.units == POUNDS)
         printf("%2.2f lbs of %s\n", order.amount.weight, order.name);
     else
