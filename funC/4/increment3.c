@@ -11,6 +11,6 @@ int main()
     ++i;
     printf("i=%d\n", i);
 
-    system("pause");
+    
     return 0;
 }

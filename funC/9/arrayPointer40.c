@@ -11,7 +11,7 @@ int main()
     total = sum(num, 6);
     printf("ci shuzu de zonghe wei: %d\n", total);
 
-    system("pause");
+    
     return 0;
 }
 

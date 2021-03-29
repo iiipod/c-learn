@@ -26,6 +26,6 @@ int main()
         printf("* (ptr + %d)=%d\n", i, * (ptr + i));
     }
 
-    system("pause");
+    
     return 0;
 }

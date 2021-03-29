@@ -8,6 +8,6 @@ int main()
     printf("|%-8.2f|\n", a);
     printf("|%5.2f|\n", a);
     printf("|%.2f|\n", a);
-    system("pause");
+    
     return 0;
 }

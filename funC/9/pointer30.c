@@ -13,6 +13,6 @@ int main()
 
     printf("i=%d, j=%d\n", i, j);
 
-    system("pause");
+    
     return 0;
 }

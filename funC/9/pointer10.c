@@ -15,6 +15,6 @@ int main()
 
     printf("jingyou *ptr dedao de neirong shi: %d\n", *ptr);
 
-    system("pause");
+    
     return 0;
 }

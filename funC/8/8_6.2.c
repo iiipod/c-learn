@@ -20,6 +20,6 @@ int main()
     }
     printf("suoyou yuansu zhi de he wei: %.2f\n", sum);
 
-    system("pause");
+    
     return 0;
 }

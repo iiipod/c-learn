@@ -11,6 +11,6 @@ int main()
     sum = i + j;
     avg = sum / 2.0;
     printf("sum = %d, avg=%.1f\n", sum, avg);
-    system("pause");
+    
     return 0;
 }

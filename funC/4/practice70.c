@@ -12,6 +12,6 @@ int main()
     i = 222;
     total = ++i;
     printf("total=%d, i=%d\n", total, i);
-    system("pause");
+    
     return 0;
 }

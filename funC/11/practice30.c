@@ -22,6 +22,6 @@ int main()
         printf("%s de shengri shi(yy-mm-dd): %d-%d-%d\n\n", ff[i].name, ff[i].year, ff[i].month, ff[i].day);
     }
 
-    system("pause");
+    
     return 0;
 }

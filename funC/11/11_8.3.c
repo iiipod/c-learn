@@ -59,6 +59,6 @@ int main()
         printf("%s de C yu jilu de chengji ru xia: %.2f, %.2f\n", current->name, current->score, current->records);
         current = current->next;
     }
-    system("pause");
+    
     return 0;
 }

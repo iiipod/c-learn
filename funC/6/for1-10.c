@@ -12,6 +12,6 @@ int main()
             printf("... j pao di %d ci\n", j);
         }
     }
-    system("pause");
+    
     return 0;
 }

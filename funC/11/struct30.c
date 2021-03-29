@@ -13,6 +13,6 @@ int main()
     printf("%s de chengji shi %3d\n", stu[0].name, stu[0].score);
     printf("%s de chengji shi %3d\n", stu[1].name, stu[1].score);
 
-    system("pause");
+    
     return 0;
 }

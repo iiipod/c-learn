@@ -14,6 +14,6 @@ int main()
         printf("%c", str[i]);
     }
     printf("\n");
-    system("pause");
+    
     return 0;
 }

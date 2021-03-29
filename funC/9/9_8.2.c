@@ -24,7 +24,7 @@ int main()
     total = tot(num, 6);
     printf("total=%.2f\n", total);
 
-    system("pause");
+    
     return 0;
 }
 

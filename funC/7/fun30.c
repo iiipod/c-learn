@@ -16,7 +16,7 @@ int main()
     total = i + j;
     printf("zong he wei: %d\n", total);
     printstar(k);
-    system("pause");
+    
     return 0;
 }
 

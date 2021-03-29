@@ -20,6 +20,6 @@ int main()
         printf("* (ptr + %d)=%.2f\n", i, * (ptr + i));
     }
 
-    system("pause");
+    
     return 0;
 }

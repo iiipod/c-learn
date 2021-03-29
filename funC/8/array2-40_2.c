@@ -13,6 +13,6 @@ int main()
     {
         printf("%s\n", str2[i]);
     }
-    system("pause");
+    
     return 0;
 }

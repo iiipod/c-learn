@@ -13,7 +13,7 @@ int main()
     change();
     printf("i=%d, j=%d\n", i, j);
 
-    system("pause");
+    
     return 0;
 }
 

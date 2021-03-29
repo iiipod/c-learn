@@ -13,6 +13,6 @@ int main()
     else
         printf("%c shi yige daxie de yingwen zimu. \n", ch);
 
-    system("pause");
+    
     return 0;
 }

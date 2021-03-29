@@ -17,6 +17,6 @@ int main()
     printf("i=%d\n", i);
     printf("*ptr=%d\n\n", *ptr);
 
-    system("pause");
+    
     return 0;
 }

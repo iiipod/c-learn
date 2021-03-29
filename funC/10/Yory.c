@@ -14,6 +14,6 @@ int main()
     else
         printf("OK, na xianzai jiu qu kan dianying.\n");
 
-    system("pause");
+    
     return 0;
 }

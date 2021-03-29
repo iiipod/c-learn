@@ -29,6 +29,6 @@ int main()
     printf("\n%s de chengji shi %d\n", p->name, p->score);
     printf("%s de chengji shi %d\n", p->next->name, p->next->score);
 
-    system("pause");
+    
     return 0;
 }

@@ -9,6 +9,6 @@ int main()
     scanf("%s", str);
     printf("wo xiang mai yitai %s de shouji\n", str);
 
-    system("pause");
+    
     return 0;
 }

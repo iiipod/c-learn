@@ -8,6 +8,6 @@ int main()
     scanf("%d", &number);
     (number % 2 == 0) ? printf("%d shi oushu\n", number) : printf("%d shi jishu\n", number);
 
-    system("pause");
+    
     return 0;
 }

@@ -14,7 +14,7 @@ int main()
     process();
     output();
     printstar(20);
-    system("pause");
+    
     return 0;
 }
 

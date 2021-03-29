@@ -10,6 +10,6 @@ int main()
     scanf("%c", &ch);
     printf("%c de xiaoxie yingwen zimu shi %c. \n", ch, tolower(ch));
 
-    system("pause");
+    
     return 0;
 }

@@ -20,6 +20,6 @@ int main()
         printf("%.2f\n", * (ptr + i));
     }
 
-    system("pause");
+    
     return 0;
 }

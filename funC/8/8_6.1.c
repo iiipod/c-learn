@@ -16,6 +16,6 @@ int main()
         printf("ci shuzu di %d ge yuanse de zhi wei: %.2f\n", i, num[i]);
     }
 
-    system("pause");
+    
     return 0;
 }

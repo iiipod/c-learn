@@ -15,6 +15,6 @@ int main()
     else
         printf("zhe liangge zifuchuan bu xiangdeng\n");
 
-    system("pause");
+    
     return 0;
 }

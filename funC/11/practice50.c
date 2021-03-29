@@ -27,6 +27,6 @@ int main()
     printf("%s de shouji haoma shi %s\n", pff->name, pff->mobile);
     printf("%s de shengri shi(yyyy-mm-dd): %d-%d-%d\n", pff->name, pff->year, pff->month, pff->day);
 
-    system("pause");
+    
     return 0;
 }

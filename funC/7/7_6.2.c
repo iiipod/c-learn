@@ -11,7 +11,7 @@ int main()
     printstar(k);
     multiply99();
     printstar(k);
-    system("pause");
+    
     return 0;
 }
 

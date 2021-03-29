@@ -12,6 +12,6 @@ int main()
     struct student stu = {"Peter", 89};
     printf("%s de chengji shi %d\n", stu.name, stu.score);
 
-    system("pause");
+    
     return 0;
 }

@@ -10,6 +10,6 @@ int main()
     scanf("%c", &ch);
     printf("%c de daxie yingwen zimu shi %c. \n", ch, toupper(ch));
 
-    system("pause");
+    
     return 0;
 }

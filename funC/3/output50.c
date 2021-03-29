@@ -6,6 +6,6 @@ int main()
     double score = 89.98;
     printf("wo mu qian you %d yuan\n", i);
     printf("wo de C yuyan chengji shi %f fen\n", score);
-    system("pause");
+    
     return 0;
 }

@@ -9,6 +9,6 @@ int main()
         printf("%3c\n", i);
         i++;
     }while(i <= 'H');
-    system("pause");
+    
     return 0;
 }

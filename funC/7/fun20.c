@@ -17,7 +17,7 @@ int main()
     printf("lanqiu da wan le\n");
     printstar(20);
 
-    system("pause");
+    
     return 0;
 }
 

@@ -13,7 +13,7 @@ double main()
     scanf("%lf", &y);
     total = sum(x, y);
     printstar(20);
-    system("pause");
+    
     return 0;
 }
 

@@ -6,6 +6,6 @@ int main()
     double p = 2222.2, q = 22.2, r = 2.2;
     printf("%9.1f %9.1f %9.1f\n", a, b, c);
     printf("%9.1f %9.1f %9.1f\n", p, q, r);
-    system("pause");
+    
     return 0;
 }

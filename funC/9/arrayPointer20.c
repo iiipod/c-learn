@@ -25,6 +25,6 @@ int main()
         printf("a[%d]=%.1f\n", i, a[i]);
     }
 
-    system("pause");
+    
     return 0;
 }

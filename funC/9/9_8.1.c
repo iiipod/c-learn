@@ -18,7 +18,7 @@ int main()
     change(&i, &j);
     printf("i=%.2f, j=%.2f\n\n", i, j);
 
-    system("pause");
+    
     return 0;
 }
 

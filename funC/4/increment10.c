@@ -13,6 +13,6 @@ int main()
     total = ++i + j;
     printf("total=%d, i=%d, j=%d\n", total, i, j);
     
-    system("pause");
+    
     return 0;
 }

@@ -17,6 +17,6 @@ int main()
         default:
             printf("nin shi jinxiu sheng\n");
     }
-    system("pause");
+    
     return 0;
 }

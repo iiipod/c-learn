@@ -25,6 +25,6 @@ int main()
         printf("%15s de fenshu shi %3d fen\n", stu[i].name, stu[i].score);
     }
 
-    system("pause");
+    
     return 0;
 }

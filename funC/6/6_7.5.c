@@ -12,6 +12,6 @@ int main()
     }
     printf("sum=%d\n", sum);
     printf("i dengyu %d\n", i);
-    system("pause");
+    
     return 0;
 }

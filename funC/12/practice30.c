@@ -20,6 +20,6 @@ int main()
 
     fclose(fptr);
 
-    system("pause");
+    
     return 0;
 }

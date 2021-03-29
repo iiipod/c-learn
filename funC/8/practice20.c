@@ -12,6 +12,6 @@ int main()
         printf("num[%d]=%.2f\n", i, num[i]);
     }
 
-    system("pause");
+    
     return 0;
 }

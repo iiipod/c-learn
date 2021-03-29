@@ -15,6 +15,6 @@ int main()
     printf("i=|%3d|, j=|%3d|, k=|%3d|\n", i, j, k);
     printf("i=|%8d|, j=|%8d|, k=|%8d|\n", i, j, k);
     printf("i=|%-8d|, j=|%-8d|, k=|%-8d|\n", i, j, k);
-    system("pause");
+    
     return 0;
 }

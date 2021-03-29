@@ -10,6 +10,6 @@ int main()
     printf("qing shuru fenshu: ");
     scanf("%lf", &score);
     printf("wo de C yuyan chengji shi %f fen\n", score);
-    system("PAUSE");
+    
     return 0;
 }

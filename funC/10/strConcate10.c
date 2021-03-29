@@ -11,6 +11,6 @@ int main()
     printf("source zifuchuan shi %s\n", source);
     printf("dest zifuchuan shi %s\n", dest);
 
-    system("pause");
+    
     return 0;
 }

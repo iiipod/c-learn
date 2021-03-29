@@ -13,6 +13,6 @@ int main()
     {
         printf("i bu dengyu i\n");
     }
-    system("pause");
+    
     return 0;
 }

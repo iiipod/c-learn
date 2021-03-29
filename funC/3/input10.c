@@ -8,6 +8,6 @@ int main()
     printf("wo muqian you %d yuan\n", i);
     scanf("%lf", &score);
     printf("wo de C yuyan chengji shi %f fen\n", score);
-    system("pause");
+    
     return 0;
 }

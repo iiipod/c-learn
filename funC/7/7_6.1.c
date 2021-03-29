@@ -8,7 +8,7 @@ int main()
     printstar(72);
     multiply99();
     printstar(72);
-    system("pause");
+    
     return 0;
 }
 

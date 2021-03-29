@@ -6,6 +6,6 @@ int main()
     printf("i=%d", i);
     printf("j=%d", j);
     printf("k=%d", k);
-    system("pause");
+    
     return 0;
 }

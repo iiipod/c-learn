@@ -12,6 +12,6 @@ int main()
     else
         printf("mingyian zai shuo ba!!!\n");
 
-    system("pause");
+    
     return 0;
 }

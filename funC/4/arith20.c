@@ -9,6 +9,6 @@ int main()
     printf("%d/%d=%d\n", i, j, i / j);
     printf("%d/%.1f=%f\n", i, x, i / x);
     printf("%d/5.0=%.2f\n", i, i / 5.);
-    system("pause");
+    
     return 0;
 }

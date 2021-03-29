@@ -8,6 +8,6 @@ int main()
     i = 168;
     printf("zhe shihou de i dengyu %d\n", i);
     
-    system("pause");
+    
     return 0;
 }

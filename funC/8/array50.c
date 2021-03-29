@@ -13,6 +13,6 @@ int main()
         total += num[i];
     }
     printf("\n\nzonghe wei: %d\n", total);
-    system("pause");
+    
     return 0;
 }

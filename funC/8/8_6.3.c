@@ -20,6 +20,6 @@ int main()
     {
         printf("%d\t%.2f\t\t%.2f\n", i, num[i][0], num[i][1]);
     }
-    system("pause");
+    
     return 0;
 }

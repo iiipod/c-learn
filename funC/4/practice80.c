@@ -12,6 +12,6 @@ int main()
     i = 100;
     total = ++i + 20;
     printf("total=%d, i=%d\n", total, i);
-    system("pause");
+    
     return 0;
 }

@@ -10,6 +10,6 @@ int main()
     {
         printf("num[%d]=%d\n", i, num[i]);
     }
-    system("pause");
+    
     return 0;
 }

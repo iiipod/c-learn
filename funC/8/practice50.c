@@ -18,6 +18,6 @@ int main()
     }
     printf("\nci shuzu de zonghe wei: %.2f\n", sum);
 
-    system("pause");
+    
     return 0;
 }

@@ -29,6 +29,6 @@ int main()
     {
         printf("%s de C yu jilu de chengji ru xia: %.2f, %.2f\n", ff[i].name, ff[i].score, ff[i].records);
     }
-    system("pause");
+    
     return 0;
 }

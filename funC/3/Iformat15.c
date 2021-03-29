@@ -7,6 +7,6 @@ int main()
     printf("|%8d|\n", i);
     printf("|%-8d|\n", i);
     printf("|%3d|\n", i);
-    system("pause");
+    
     return 0;
 }

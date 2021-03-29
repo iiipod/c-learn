@@ -10,6 +10,6 @@ int main()
     }while(i <= 10);
     printf("total=%d\n", total);
     printf("xunhuan jieshu hou, i dengyu %d\n", i);
-    system("pause");
+    
     return 0;
 }

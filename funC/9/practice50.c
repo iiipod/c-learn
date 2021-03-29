@@ -12,7 +12,7 @@ int main()
 
     printf("ci shuzu de zonghe wei: %.2f\n", total);
 
-    system("pause");
+    
     return 0;
 }
 

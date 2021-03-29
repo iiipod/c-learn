@@ -35,6 +35,6 @@ int main()
         current = current->next;
     }
 
-    system("pause");
+    
     return 0;
 }

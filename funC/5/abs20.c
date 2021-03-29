@@ -9,6 +9,6 @@ int main()
     abs = (number >= 0) ? number : -number;
     printf("%d de jueduizhi shi %d\n", number, abs);
 
-    system("pause");
+    
     return 0;
 }

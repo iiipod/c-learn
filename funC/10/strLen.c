@@ -10,6 +10,6 @@ int main()
     len = strlen(str);
     printf("%s zifuchuan de changdu shi %d\n", str, len);
 
-    system("pause");
+    
     return 0;
 }

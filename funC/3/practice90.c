@@ -11,6 +11,6 @@ int main()
     scanf("%lf", &z);
     
     printf("x=|%-8.1f|,y=|%-8.1f|,z=|%-8.1f|\n",x, y, z);
-    system("pause");
+    
     return 0;
 }

@@ -5,6 +5,6 @@ int main()
 {
     printf("dajiahao, ");
     printf("yiqixuexiCyuyan!!!!");
-    system("pause");
+    
     return 0;
 }

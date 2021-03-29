@@ -18,6 +18,6 @@ int main()
     i %= k;
     printf("i=%d\n", i);
 
-    system("pause");
+    
     return 0;
 }

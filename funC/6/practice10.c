@@ -9,6 +9,6 @@ int main()
         total += i;
     }
     printf("total=%d\n", total);
-    system("pause");
+    
     return 0;
 }

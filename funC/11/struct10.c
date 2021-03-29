@@ -17,6 +17,6 @@ int main()
 
     printf("%s de chengji shi %d\n", stu.name, stu.score);
 
-    system("pause");
+    
     return 0;
 }
